@@ -1,5 +1,5 @@
 # TypesScript boilerplate
-Tällä boilerplate-rungolla pitäisi päästä nopeasti ajamaan TypeScriptiä Nodella. Projekti sisältää Jestin yksikkötestaukseen sekä Prettier + Eslint -konfiguraation koodin muotoiluun, että tarkistamiseen ja tämän pitäisi toimia automaattisesti Visual Studio Codessa. Boilerplate käyttää Nodemonia, joten koodia muutettaessa terminaali päivittyy automaattisesti.
+Tällä boilerplate-rungolla pitäisi päästä nopeasti ajamaan TypeScriptiä Nodella. Projekti sisältää Jestin yksikkötestaukseen sekä Prettier + Eslint -konfiguraation koodin muotoiluun, että tarkistamiseen. Muotoilun ja tarkistuksen pitäisi toimia automaattisesti Visual Studio Codessa. Boilerplate käyttää Nodemonia, joten koodia muutettaessa terminaali päivittyy automaattisesti.
 
 ## Esivaatimukset:
 - Visual Studio Code
@@ -12,7 +12,7 @@ Tällä boilerplate-rungolla pitäisi päästä nopeasti ajamaan TypeScriptiä N
 
 ## Koodin linttaus ja formatointi
 Mikäli Editorisi ei tarkista ja formatoi koodia automaattisesti, lint ja format -komennot on mahdollista myös ajaa manuaalisesti. Suositellaan kuitenkin, että Eslint ja Prettier toimisivat automaagisesti editorin kanssa, koska se on luksusta!
- 
+
 - ```npm run lint```
 - ```npm run lint:fix```
 - ```npm run format```
