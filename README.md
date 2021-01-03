@@ -10,7 +10,10 @@ Tällä boilerplate-rungolla pitäisi päästä nopeasti ajamaan TypeScriptiä N
 - ```npm install```
 - ```npm start```
 
+## Jest-testien käynnistys
+- ```npm test```
+
 ## Virhetilanteet ja epäkohdat
-Mikäli et saa toimimaan boilerplatea ota yhteyttä. Noidutaan yhdessä homma kuntoon. Jos havaitset puutteita/parannusehdotuksia luo pull request. 
+Mikäli et saa toimimaan boilerplatea ota yhteyttä, Niin noidutaan homma yhdessä kuntoon. Jos havaitset puutteita/parannusehdotuksia luo pull request. 
 
 ## Kiitos paljon!
