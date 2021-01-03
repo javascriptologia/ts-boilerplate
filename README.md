@@ -10,6 +10,13 @@ Tällä boilerplate-rungolla pitäisi päästä nopeasti ajamaan TypeScriptiä N
 - ```npm install```
 - ```npm start```
 
+## Koodin linttaus ja formatointi
+Mikäli Editorisi ei tarkista ja formatoi koodia automaattisesti, lint ja format -komennot on mahdollista myös ajaa manuaalisesti. Suositellaan kuitenkin, että Eslint ja Prettier toimisivat automaagisesti editorin kanssa, koska se on luksusta!
+ 
+- ```npm run lint```
+- ```npm run lint:fix```
+- ```npm run format```
+
 ## Jest-testien käynnistys
 - ```npm test```
 
